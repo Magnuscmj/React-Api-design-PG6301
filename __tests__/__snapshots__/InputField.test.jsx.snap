@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputField Should render the navigation bar 1`] = `"<div><label> <input type=\\"text\\" placeholder=\\"text\\" value=\\"\\"></label></div>"`;

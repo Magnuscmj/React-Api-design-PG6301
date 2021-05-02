@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`EditMessage Edits messages 1`] = `"<div>Loading...</div>,"`;
+
+exports[`edit book page Should render the navigation bar 1`] = `"<div>Loading...</div>"`;
+
+exports[`edit book page can show information about an existing book 1`] = `"<form><a class=\\"backBtn\\" href=\\"/Profile\\">Back</a><h1>Go to conversation ()</h1><div><label>To <input type=\\"text\\" placeholder=\\"text\\" value=\\"\\"></label></div><div><label>Text <input type=\\"text\\" placeholder=\\"text\\" value=\\"\\"></label></div><div><label>Time <input type=\\"number\\" placeholder=\\"number\\" value=\\"\\"></label></div><button>Submit</button></form>"`;
+
+exports[`edit book page can show loading screen 1`] = `"<div>Loading...</div>"`;
+
+exports[`edit message page Should render the navigation bar 1`] = `"<div>Loading...</div>"`;
+
+exports[`edit message page can show information about an existing book 1`] = `"<form><a class=\\"backBtn\\" href=\\"/Profile\\">Back</a><h1>Go to conversation (mathilde)</h1><div><label>To <input type=\\"text\\" placeholder=\\"text\\" value=\\"mathilde\\"></label></div><div><label>Text <input type=\\"text\\" placeholder=\\"text\\" value=\\"hei, hva skjer?\\"></label></div><div><label>Time <input type=\\"number\\" placeholder=\\"number\\" value=\\"1925\\"></label></div><button>Submit</button></form>"`;
+
+exports[`edit message page can show information about messages 1`] = `"<form><a class=\\"backBtn\\" href=\\"/Profile\\">Back</a><h1>Go to conversation (halla)</h1><div><label>To <input type=\\"text\\" placeholder=\\"text\\" value=\\"halla\\"></label></div><div><label>Text <input type=\\"text\\" placeholder=\\"text\\" value=\\"yanii\\"></label></div><div><label>Time <input type=\\"number\\" placeholder=\\"number\\" value=\\"1925\\"></label></div><button>Submit</button></form>"`;
+
+exports[`edit message page can show loading screen 1`] = `"<div>Loading...</div>"`;
