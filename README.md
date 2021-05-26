@@ -1,3 +1,6 @@
+### Grade: B
+
+
 # README for PG6301
 
 ### How to run
